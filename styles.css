@@ -39,6 +39,7 @@ h3 {
 }
 
 details {
+    width: 95%;
     border: 2px solid black;
     border-radius: 8px;
     background-color: peachpuff;
