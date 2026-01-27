@@ -123,3 +123,11 @@ ul {
         max-width: 560px;
     }
 }
+
+@media (max-width: 768px) {
+    ol, ul {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
