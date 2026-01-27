@@ -15,6 +15,7 @@
     color: white;
     font-family: "Inter", "Segoe UI", Roboto, sans-serif;
     font-size: 25;
+    padding: 10px 15px;
 }
 
 .nav-bar li:hover {
