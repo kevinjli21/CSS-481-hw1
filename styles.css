@@ -13,4 +13,10 @@
 
 .nav-bar li a {
     color: white;
+    font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+    font-size: 25;
+}
+
+.nav-bar li:hover {
+    background-color: gray;
 }
