@@ -37,16 +37,6 @@ body {
     background-attachment: fixed;
 }
 
-.gif-box {
-    gap: 15px;
-    justify-content: center;
-    color: violet;
-}
-
-.banana {
-    size: 95%;
-}
-
 h1 {
     font-family: "Inter", "Segoe UI", Roboto, sans-serif;
     font-size: 2rem;
