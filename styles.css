@@ -33,6 +33,11 @@ body {
 .gif-box {
     gap: 15px;
     justify-content: center;
+    color: violet;
+}
+
+.banana {
+    size: 95%;
 }
 
 h1 {
