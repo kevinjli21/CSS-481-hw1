@@ -133,6 +133,10 @@ footer {
     margin-bottom: 1px;
 }
 
+section {
+    max-width: 800px;
+}
+
 
 
 @media (max-width: 768px) {
