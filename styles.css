@@ -26,6 +26,7 @@
 }
 
 body {
+    height: 100%;
     background-image: url("bglight.jpg");
     background-size: cover;
     background-repeat: no-repeat;
