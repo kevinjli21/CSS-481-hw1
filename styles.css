@@ -102,6 +102,30 @@ img, video, iframe {
   height: auto;
 }
 
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: left;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    overflow: hidden; 
+}
+
+th {
+    font-weight: bold;
+    padding: 10px 15px;
+    border-bottom: 2px solid black;
+}
+
+td {
+    padding: 10px 15px;
+    border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) td {
+    background-color: red;
+}
+
 footer {
     border-top: 1px dotted black;
     text-align: center;
