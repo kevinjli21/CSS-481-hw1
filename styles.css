@@ -26,13 +26,16 @@
 }
 
 body {
-    display: flex;
     min-height: 100vh;
     background-image: url("bglight.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+}
+
+.gif-box {
+    min-height: 2rem;
 }
 
 h1 {
@@ -144,7 +147,6 @@ footer {
     text-align: center;
     background-color: gray;
     margin-bottom: 1px;
-    margin-top: auto;
 }
 
 section {
